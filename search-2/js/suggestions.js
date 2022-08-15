@@ -1,0 +1,16 @@
+let suggestions = [
+    "Channel",
+    "Makanan",
+    "Rumah",
+    "Sekolah",
+    "Belajar",
+    "YouTube Channel",
+    "Blogger",
+    "Bollywood",
+    "Vlogger",
+    "Vechiles",
+    "Facebook",
+    "Freelancer",
+    "Facebook Page",
+    "Designer",
+];
